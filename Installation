@@ -1,0 +1,18 @@
+Depedencies 
+1.Tinker 
+2.pybluez
+
+Install Tinker
+
+pip install python-tk
+
+Install pybluez
+
+download library from the link below
+------------------------------------
+https://download.lfd.uci.edu/pythonlibs/u2yrk7ps/PyBluez-0.22-cp35-none-win_amd64.whl
+
+Then Exceute cmd from downloaded folder
+---------------------------------------
+
+pip install PyBluez-0.22-cp35-none-win_amd64.whl
